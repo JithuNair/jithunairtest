@@ -5,9 +5,11 @@
 /* add colour to navbar text */
 .navbar-brand{
     color: white !important;
+    /* text-shadow: 0 0 1px #FF0000, 0 0 1px #0000FF; */
 }
 .nav-link{
     color: white !important;
+    /* text-shadow: 0 0 1px #FF0000, 0 0 1px #0000FF; */
 }
 
 /* hero background image */
@@ -66,15 +68,15 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-github:hover,.fa-kaggle:hover,.fa-linkedin:hover, .fa-medium:hover {
     color: #008000;
 }
 .fab {
-    color: #000000;
+    color: #ffff;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: black;
     text-align: center;
 }
 /* spacing on all sections */
